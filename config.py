@@ -1,3 +1,5 @@
+API_ID = 
+API_HASH = "idhash"
 # =============[upgrades]================
 # default is 5 level you can change it your self
 PAINT_REWARD_MAX = 7 # max is 7
